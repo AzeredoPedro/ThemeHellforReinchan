@@ -1,0 +1,12 @@
+:root{--icon-color:invert(90%) hue-rotate(6deg) brightness(40%) contrast(124%);--alt-label-color:#000;--alt-font-color:#ff2200;--background-top:#ff2d2d;--background-rest:#ff2d2d;--navbar-color:#ff2d2d;--post-color:#800;--post-outline-color:#800;--label-color:#800000;--box-border-color:#000;--darken:#ffffff10;--highlighted-post-color:#6d99ba73;--highlighted-post-outline-color:#000--board-title:#ff2d2d;--hr:#d2738a;--font-color:#dcdcdc;--name-color:#000;--capcode-color:#15ff00;--subject-color:#000;--link-color:#000;--post-link-color:#000ff;--link-hover:#bd0000;--input-borders:#ff2000;--input-color:#dcdcdc;--input-background:#000;--dice-color:darkorange;--title-color:#d70000;--greentext-color:#88b319;--pinktext-color:#000000}
+
+body{background:linear-gradient(black, #800000,black),#0d0d0d none repeat scroll 0 0}
+
+a.quote{color:#800}table{border:5px solid var(--box-border-color)}
+
+tr{background:var(--background-rest)}
+
+.captcha{filter:invert(90%)}
+
+#float , .post-container,#livetext,#threadstats,.catalog-tile,.pages,.post-container{border-style:none none solid solid}
+hr{margin:16px 0}
